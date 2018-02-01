@@ -1,8 +1,3 @@
-<html>
-  <head>
-    <title>PHP</title>
-  </head>
-<body>
 <?php echo("<html><body bgcolor=\"#a38692\">");?>
 <?php echo("<h1><center> Your survey has been completed</center></h1>");?>
 You are a <?php echo $_POST["Gender"]; ?>!<br />
