@@ -5,5 +5,3 @@ Your favorite singer is <?php echo $_POST["Teacher"]; ?> class. <br />
 You like him as a singer because he is <?php echo $_POST["reason"]; ?> class. <br />
 The type of music you prefer listening <?php echo $_POST["genre"]; ?> class. <br />
 <?php echo("</html></body>");?>
-  </body>
-</html>
